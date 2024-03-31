@@ -84,7 +84,7 @@ const Home = () => {
       <div className="container m-4 p-4 mx-auto h-min-screen grid grid-rows-1 grid-cols-1 items-center">
         <div className="wrapper">
           <h2 className="m-4 p-2 h-30 text-center text-2xl font-bold">
-            Welcome to the Quiz Game
+            Welcome to TechQuiz, the Quiz Game App
           </h2>
 
           <form onSubmit={startGame}>
